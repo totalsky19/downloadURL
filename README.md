@@ -3,7 +3,7 @@ This is a simple php code for downloading the url in host
 
 1- Make "download" directory in your host.
 
-2- change line 35  downloadurl.php regarding to your hostname.
+2- change line 35th  "downloadurl.php" regarding to your hostname.
 
 3- upload "downloadurl.php" on your host.
 
